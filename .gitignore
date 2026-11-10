@@ -1,0 +1,13 @@
+.env
+**/.env
+frontend/config.js
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+**/.pytest_cache/
+.vscode/
+node_modules/
+dist/
+build/
